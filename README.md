@@ -18,5 +18,6 @@ Interactive mobile app prototype designed using Figma.
 Saggam Vamshi
 
 ## Prototype Link
-https://www.figma.com/proto/GjZ2UFiE0fzVq3pgRZOeQ6/Untitled?node-id=124-2&t=r07VFn4I0RjM6xDm-1
+https://www.figma.com/design/GjZ2UFiE0fzVq3pgRZOeQ6/Untitled?node-id=124-2&t=r07VFn4I0RjM6xDm-1
+
 
