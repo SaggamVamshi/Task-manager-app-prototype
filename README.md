@@ -1,4 +1,4 @@
-# Task Manager App Interactive Prototype
+# Task Manager App Interactive Prototype Creation
 
 ## Description
 Interactive mobile app prototype designed using Figma.
