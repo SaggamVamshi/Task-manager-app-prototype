@@ -1,2 +1,22 @@
-# Task-manager-app-prototype
-Interactive mobile app prototype created using Figma
+# Task Manager App Interactive Prototype
+
+## Description
+Interactive mobile app prototype designed using Figma.
+
+## Features
+- Login Flow
+- Dashboard UI
+- Add Task Screen
+- Task Details Screen
+- Smart Animate Transitions
+- Interactive Navigation
+
+## Tools Used
+- Figma
+
+## Author
+Saggam Vamshi
+
+## Prototype Link
+https://www.figma.com/design/GjZ2UFiE0fzVq3pgRZOeQ6/Untitled?node-id=124-2&t=r07VFn4I0RjM6xDm-1
+
